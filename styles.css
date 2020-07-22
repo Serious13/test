@@ -1,0 +1,18 @@
+body {
+    margin:0 auto;
+    width:1290px;
+    
+}
+header {
+    width:900;
+    background-color:blueviolet;
+}
+
+.hide {
+    display:none;
+    color:black;
+}
+
+.visible {
+    display: block;
+}

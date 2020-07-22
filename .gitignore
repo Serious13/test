@@ -1,0 +1,5 @@
+.DS_Store
+svg
+.vscode
+node_modules
+design
